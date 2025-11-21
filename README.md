@@ -37,4 +37,4 @@
          /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kilgwijong&layout=compact&bg_color=180,8fabd4,00000000&title_color=efece3&text_color=efece3"
            /> </div> 
     </div>
-    | `dracula` ![dracula][dracula] | `prussian` ![prussian][prussian] | `monokai` ![monokai][monokai] |
+    
