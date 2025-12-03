@@ -4,6 +4,11 @@
     <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 백엔드 개발자 길귀종입니다 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> <li> 많은 요청과 변화하는 조건 속에서도 안정성과 예측 가능성을 유지할 수 있습니다.</li><li> 개발 과정에서 항상 사용자의 **입장**을 생각합니다.</li><li> 문제가 생기면 단순히 혼자 해결하려고 하지 않고 **소통**하며 해결하려고 합니다.</li><li> 최신 트랜드를 **빠르고 신속하게** 파악하여 반영하려고 노력합니다. </div> 
+
+<h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> My Recent Project </h3>
+2024.11.25 ~ 2024.12.20 AI 기술을 활용한 사용자 맞춤 여행지 및 맛집 추천 서비스 <br />
+2025.03.03 ~ 2025.06.05 LLM과 MSA 기술을 이용한 맞춤형 학교 안내 키오스크 <br />
+2025.10.20 ~ ing AI 기술을 활용한 이미지/영상 생성 편집 서비스
     </div>
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
@@ -16,7 +21,6 @@
           <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white">
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-          <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
           <br/><img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
           <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
